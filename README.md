@@ -1,2 +1,0 @@
-# CampingFrancon
-Created with CodeSandbox
